@@ -1,2 +1,2 @@
-# DolgatAhmedov.github.io
+# Долгат Ахмедов
 Мой первый сайт
